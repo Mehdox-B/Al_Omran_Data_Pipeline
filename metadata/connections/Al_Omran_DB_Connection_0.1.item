@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_eCZ1wBIeEe-8XJxZbAt9JA" name="Al_Omran_DB_Connection" id="_AnhsIBIeEe-8XJxZbAt9JA" label="Al_Omran_DB_Connection" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:5432/?" dbVersionString="V9_X" Port="5432" Username="" Password="" ServerName="localhost" DatasourceName="" FileFieldName="" SID="" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+  <taggedValue xmi:id="_eCZ1wRIeEe-8XJxZbAt9JA" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_eCmqEBIeEe-8XJxZbAt9JA" tag="package filter" value=""/>
+  <taggedValue xmi:id="_eCmqERIeEe-8XJxZbAt9JA" tag="Status" value=""/>
+  <taggedValue xmi:id="_eCmqEhIeEe-8XJxZbAt9JA" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_eCmqExIeEe-8XJxZbAt9JA" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_eCmqFBIeEe-8XJxZbAt9JA" tag="Description" value=""/>
+  <taggedValue xmi:id="_eCmqFRIeEe-8XJxZbAt9JA" tag="Author" value=""/>
+  <taggedValue xmi:id="_eCmqFhIeEe-8XJxZbAt9JA" tag="otherParameter"/>
+  <parameters xmi:id="_eCZ1whIeEe-8XJxZbAt9JA" key="CONN_PARA_KEY_USERNAME" value=""/>
+</TalendMetadata:DatabaseConnection>

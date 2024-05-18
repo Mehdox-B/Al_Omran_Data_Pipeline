@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="__-fD0BKZEe-h-90iBCIh5Q" name="Execl_Talend_Connection" id="_21k-kBKZEe-h-90iBCIh5Q" label="Execl_Talend_Connection" DatabaseType="SAPHana" DriverClass="com.sap.db.jdbc.Driver" URL="jdbc:sap://:30015?" Port="30015" Username="" Password="" ServerName="" DatasourceName="" FileFieldName="" SID="" SqlSynthax="" StringQuote="" NullChar="" DbmsId="saphana_id" ProductId="SAPHANA" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+  <taggedValue xmi:id="__-fD0RKZEe-h-90iBCIh5Q" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="__-0bABKZEe-h-90iBCIh5Q" tag="package filter" value=""/>
+  <taggedValue xmi:id="__-4FYBKZEe-h-90iBCIh5Q" tag="Status" value=""/>
+  <taggedValue xmi:id="__-4FYRKZEe-h-90iBCIh5Q" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="__-4FYhKZEe-h-90iBCIh5Q" tag="Purpose" value=""/>
+  <taggedValue xmi:id="__-4FYxKZEe-h-90iBCIh5Q" tag="Description" value=""/>
+  <taggedValue xmi:id="__-4FZBKZEe-h-90iBCIh5Q" tag="Author" value=""/>
+  <taggedValue xmi:id="__-4FZRKZEe-h-90iBCIh5Q" tag="otherParameter"/>
+  <parameters xmi:id="__-fD0hKZEe-h-90iBCIh5Q" key="CONN_PARA_KEY_USERNAME" value=""/>
+</TalendMetadata:DatabaseConnection>
